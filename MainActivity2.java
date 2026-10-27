@@ -1,4 +1,3 @@
-package semyon.android_studio.brick_burst;
 import android.content.Context;
 import android.content.SharedPreferences;
 import android.media.AudioAttributes;
